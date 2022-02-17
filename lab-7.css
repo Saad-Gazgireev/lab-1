@@ -1,0 +1,266 @@
+.rod{
+    width: 1140px;
+    height: 350px;
+    
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 12%
+}
+.block-1{
+    width: 50%;
+    height: 100%;
+    background-color: blueviolet;
+}
+
+.block-2{
+    width: 50%;
+    height: 100%;
+    background-color: gold;
+}
+
+
+
+
+.rod2 {
+    width: 1140px;
+    height: 150px;
+    margin-left: 12%; 
+    display: flex;
+    justify-content: space-between;
+}
+
+.bl1{
+    width: 15%;
+    background-color: black;
+    margin-right: 6%;
+}
+.bl2{
+    width: 15%;
+    background-color: aqua;
+    margin-right: 6%;
+}
+
+.bl3{
+    width: 15%;
+    background-color: chocolate;
+    margin-right: 6%;
+}
+
+.bl4{
+    width: 15%;
+    background-color: violet;
+    margin-right: 6%;
+}
+
+.bl5{
+    width: 15%;
+    background-color: burlywood;
+   
+}
+
+.rod3{
+    width: 60%;
+    height: 210px;
+    margin-top: 20px;
+   
+    margin-left: 20%;
+    
+}
+
+.div1{
+    
+    background-color: brown;
+    width: 100%;
+    height: 120px;
+    text-align:center;
+    padding: 40px;
+    box-sizing: border-box;
+    color: white;
+    font-size: 27px;
+}
+
+.div2{
+    height: 90px;
+    color: brown;
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 26px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.rod4{
+    width: 60%;
+    height: 200px;
+    margin-top: 20px;
+   
+    margin-left: 20%;
+    display: flex;
+    justify-content: space-between;
+}
+.div3{
+    height: 200px;
+    width: 30%;
+    color: white;
+    font-size: 15px;
+    font-weight: bolder;
+    padding: 15px;
+    box-sizing: border-box;
+    background-color: brown;
+}
+
+.div4{
+    height: 200px;
+    width: 30%;
+    color: white;
+    font-size: 15px;
+    font-weight: bolder;
+    padding: 15px;
+    box-sizing: border-box;
+    background-color: brown;
+
+}
+
+.div5{
+    height: 200px;
+    width: 30%;
+    color: white;
+    font-size: 15px;
+    font-weight: bolder;
+    padding: 15px;
+    box-sizing: border-box;
+    background-color: brown;
+
+}
+
+.div6{
+    height: 60px;
+    color: brown;
+    font-size: 25px;
+    font-weight: bolder;
+    padding-top: 20px;
+    box-sizing: border-box;
+    
+    margin-left: 20%;
+    width: 60%;
+}
+
+.rod5{
+    width: 60%;
+    height: 240px;
+    margin-top: 20px;
+    
+    margin-left: 20%;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+.divv1{
+    background-color: brown;
+    width: 20%;
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+    box-sizing: border-box;
+
+
+}
+.divv2{
+    background-color: brown;
+    width: 20%;
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+.divv3{
+    background-color: brown;
+    width: 20%;
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+.divv4{
+    background-color: brown;
+    width: 20%;
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+.divv5{
+    background-color: brown;
+    width: 20px;
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+.podval{
+    background-color: brown;
+    color: white;
+    height: 70px;
+    font-size: 25px;
+    font-weight: bolder;
+    padding-top: 20px;
+    box-sizing: border-box;
+    margin-left: 20%;
+    width: 60%;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+
+
+.newrod{
+    margin-top: 20px;
+    margin-left: 20%;
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(192, 191, 192);
+}
+
+.block1{
+    width: 540px;
+    height: 540px;
+    background-color:chocolate;
+}
+
+.parent{
+    
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    
+    
+}
+.child{
+    margin-left: 50px;
+    width: 250px;
+    height: 250px;
+    background-color: orange;
+    
+}
+
+.parent2{
+    width: 1140px;
+    background-color: cadetblue;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+.bigchild{
+    width: 540px;
+    height: 540px;
+    background-color: brown;
+}
